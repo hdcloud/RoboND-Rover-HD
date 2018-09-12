@@ -1,8 +1,8 @@
 
 [//]: # (Image References)
 
-[image1]: ./robo_sim_notebook.png
-[image2]: ./robo_sim_auto.png
+[image1]: ./misc/robo_sim_notebook.png
+[image2]: ./misc/robo_sim_auto.png
 
 
 ---
